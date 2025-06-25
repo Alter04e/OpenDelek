@@ -90,22 +90,6 @@ result = delek.process_request(
 )
 ```
 
-## 📊 Cost Analysis
-
-### ROI Comparison (vs. External AI Services)
-
-| Scenario | OpenDelek (3-Year) | External APIs (3-Year) | Savings |
-|----------|---------------------|-------------------------|---------|
-| **Low Volume** (1,250 tasks/month) | $185,000 | $405,000 | **$220,000** |
-| **Medium Volume** (6,200 tasks/month) | $320,000 | $2,011,800 | **$1,691,800** |
-| **High Volume** (18,500 tasks/month) | $580,000 | $5,994,000 | **$5,414,000** |
-
-### Key Financial Benefits
-- **150-300% ROI** over 3 years
-- **2-6 month** payback period
-- **$0.10-$0.75** cost per task (vs. $0.75+ for external APIs)
-- **Zero data egress costs**
-
 ## 🛡️ Security & Compliance
 
 ### Security Features
